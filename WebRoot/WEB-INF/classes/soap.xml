@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <getMobileCodeInfo xmlns="http://WebXml.com.cn/">
+      <mobileCode>13125179513</mobileCode>
+      <userID></userID>
+    </getMobileCodeInfo>
+  </soap:Body>
+</soap:Envelope>
